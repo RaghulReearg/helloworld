@@ -7,3 +7,9 @@
 1. One
 2. Two second
 3. Three 3
+---
+*This will be italic*
+
+- one
+- two 
+- three
